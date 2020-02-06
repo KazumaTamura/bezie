@@ -1,4 +1,5 @@
 //2020/02/06 TR 4輪オムニ 接地エンコーダ2個 lpms-me1 用いて動作確認済み
+//ベジエ曲線を連続にするプログラムの理解に用いる
 
 #include <Arduino.h>
 #include <MsTimer2.h>
